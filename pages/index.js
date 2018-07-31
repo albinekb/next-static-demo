@@ -13,7 +13,7 @@ injectGlobal`
   html, body {
     margin: 0;
     padding: 0;
-    background: SNOW;
+    background: snow;
     min-height: 100%;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 24px;
